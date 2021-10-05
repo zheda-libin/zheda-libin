@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+This is Bin Li from Zhejiang University.
+
+A photographer and a programmer!
+
 <!--
 **zheda-libin/zheda-libin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
